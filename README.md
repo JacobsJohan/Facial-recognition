@@ -2,23 +2,29 @@
 Facial recognition with a Raspberry Pi and camera using OpenCV. Implementation in Python.
 
 *******************************************
-* SECURITY CAMERA WITH FACIAL RECOGNITION *
+* SECURITY CAMERA WITH FACIAL RECOGNITION 
 *******************************************
 
  (yyyy/mm/dd)
 → 2017/10/14
 
 • First boot of the Raspberry Pi 3
+
 • Changed password (sudo raspi-config)
+
 • Connect to local WiFi
+
 • Update software (sudo apt-get update)
+
 • Install software (sudo apt-get upgrade)
 
 
 → 2017/10/15
 
 • Making the camera work (https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
+
 • Attempt to install openCV on Raspberry Pi 3 (jessie)
+
 	♦ Guide: https://raspberrypi.stackexchange.com/questions/69169/how-to-install-opencv-on-raspberry-pi-3-in-raspbian-jessie
 	
 	sudo apt-get install build-essential git cmake pkg-config
