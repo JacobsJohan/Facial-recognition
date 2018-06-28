@@ -6,6 +6,7 @@ Facial recognition with a Raspberry Pi and camera using OpenCV. Implementation i
 *******************************************
 
  (yyyy/mm/dd)
+ 
 → 2017/10/14
 
 • First boot of the Raspberry Pi 3
@@ -81,12 +82,17 @@ Facial recognition with a Raspberry Pi and camera using OpenCV. Implementation i
  (https://www.raspberrypi.org/documentation/remote-access/vnc/)
  
  Very short version
-	• Make sure VNC Viewer is installed on the controlling device and VNC Server is installed on the raspberry pi
-	• Check if VNC is enabled on raspberry pi (Menu > Preferences > Raspberry Pi Configuration > Interfaces)
-	• Create a VNC account (needed for cloud connect)
-	• LAN: connect directly via local IP
-	• Cloud connect: right click the vnc symbol at the system tray, select licensing and add the raspberry pi as 1/5 free cloud connections
-	
+ 
+• Make sure VNC Viewer is installed on the controlling device and VNC Server is installed on the raspberry pi
+
+• Check if VNC is enabled on raspberry pi (Menu > Preferences > Raspberry Pi Configuration > Interfaces)
+
+• Create a VNC account (needed for cloud connect)
+
+• LAN: connect directly via local IP
+
+• Cloud connect: right click the vnc symbol at the system tray, select licensing and add the raspberry pi as 1/5 free cloud connections
+
 
  ----------------------------
 | Connect to WPA2 Enterprise |
